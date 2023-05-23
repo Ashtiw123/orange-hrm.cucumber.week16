@@ -1,0 +1,74 @@
+2023-05-23 19:05:406 INFO  LoginPage :43 - Enter username Admin to userName field Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='txtUsername']'<br>
+2023-05-23 19:05:954 INFO  DashBoardPage :22 -  dashBoard Text Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Dashboard')]'<br>
+2023-05-23 19:05:74 INFO  LoginPage :43 - Enter username Admin to userName field Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='txtUsername']'<br>
+2023-05-23 19:05:993 INFO  DashBoardPage :22 -  dashBoard Text Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Dashboard')]'<br>
+2023-05-23 19:05:589 INFO  DashBoardPage :22 -  dashBoard Text Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Dashboard')]'<br>
+2023-05-23 19:05:510 INFO  LoginPage :43 - Enter username Admin to userName field [[ChromeDriver: chrome on WINDOWS (5c61060533068f550d56bd47dddff3a4)] -> xpath: //input[@name='username']]<br>
+2023-05-23 19:05:348 INFO  DashBoardPage :22 -  dashBoard Text Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Dashboard')]'<br>
+2023-05-23 19:05:344 INFO  LoginPage :53 - Enter username Admin to userName field [[ChromeDriver: chrome on WINDOWS (47671504b35f59b4082939a61868d403)] -> xpath: //input[@name='username']]<br>
+2023-05-23 19:05:693 INFO  DashBoardPage :22 -  dashBoard Text Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Dashboard')]'<br>
+2023-05-23 19:05:854 INFO  DashBoardPage :22 -  dashBoard Text Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Dashboard')]'<br>
+2023-05-23 19:05:03 INFO  LoginPage :53 - Enter username Admin to userName field [[ChromeDriver: chrome on WINDOWS (b8b301e3e673eb3ee4e1de6ba0019fcf)] -> xpath: //input[@name='username']]<br>
+2023-05-23 19:05:167 INFO  DashBoardPage :22 -  dashBoard Text Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Dashboard')]'<br>
+2023-05-23 20:05:931 INFO  LoginPage :53 - Enter username Admin to userName field [[ChromeDriver: chrome on WINDOWS (9dace9acb1373630c9903b53b287f70f)] -> xpath: //input[@name='username']]<br>
+2023-05-23 20:05:11 INFO  LoginPage :61 - Enter password admin123 to password field [[ChromeDriver: chrome on WINDOWS (9dace9acb1373630c9903b53b287f70f)] -> xpath: //body/div[@id='app']/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/form[1]/div[2]/div[1]/div[2]/input[1]]<br>
+2023-05-23 20:05:48 INFO  LoginPage :70 - Clicking on Login Button Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnLogin']'<br>
+2023-05-23 20:05:984 INFO  DashBoardPage :22 -  dashBoard Text Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Dashboard')]'<br>
+2023-05-23 20:05:591 INFO  LoginPage :53 - Enter username Admin to userName field [[ChromeDriver: chrome on WINDOWS (6419d6e54d47fc3cc9b4fcbd3d9c6841)] -> xpath: //input[@name='username']]<br>
+2023-05-23 20:05:662 INFO  LoginPage :61 - Enter password admin123 to password field [[ChromeDriver: chrome on WINDOWS (6419d6e54d47fc3cc9b4fcbd3d9c6841)] -> xpath: //body/div[@id='app']/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/form[1]/div[2]/div[1]/div[2]/input[1]]<br>
+2023-05-23 20:05:727 INFO  LoginPage :70 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (6419d6e54d47fc3cc9b4fcbd3d9c6841)] -> xpath: //body/div[@id='app']/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]]<br>
+2023-05-23 20:05:733 INFO  DashBoardPage :22 -  dashBoard Text Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Dashboard')]'<br>
+2023-05-23 20:05:874 INFO  DashBoardPage :22 -  dashBoard Text Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Dashboard')]'<br>
+2023-05-23 20:05:179 INFO  LoginPage :53 - Enter username Admin to userName field [[ChromeDriver: chrome on WINDOWS (41444bcbdac200edbf93227d9c081631)] -> xpath: //input[@name='username']]<br>
+2023-05-23 20:05:248 INFO  LoginPage :61 - Enter password admin123 to password field [[ChromeDriver: chrome on WINDOWS (41444bcbdac200edbf93227d9c081631)] -> xpath: //body/div[@id='app']/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/form[1]/div[2]/div[1]/div[2]/input[1]]<br>
+2023-05-23 20:05:309 INFO  LoginPage :70 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (41444bcbdac200edbf93227d9c081631)] -> xpath: //body/div[@id='app']/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]]<br>
+2023-05-23 20:05:482 INFO  DashBoardPage :22 -  dashBoard Text Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Dashboard')]'<br>
+2023-05-23 20:05:712 INFO  DashBoardPage :22 -  dashBoard Text Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Dashboard')]'<br>
+2023-05-23 20:05:886 INFO  LoginPage :53 - Enter username Admin to userName field [[ChromeDriver: chrome on WINDOWS (1706813e8bcf9761cb39bfc32e6ec3a2)] -> xpath: //input[@name='username']]<br>
+2023-05-23 20:05:963 INFO  LoginPage :61 - Enter password admin123 to password field [[ChromeDriver: chrome on WINDOWS (1706813e8bcf9761cb39bfc32e6ec3a2)] -> xpath: //body/div[@id='app']/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/form[1]/div[2]/div[1]/div[2]/input[1]]<br>
+2023-05-23 20:05:26 INFO  LoginPage :70 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (1706813e8bcf9761cb39bfc32e6ec3a2)] -> xpath: //body/div[@id='app']/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]]<br>
+2023-05-23 20:05:959 INFO  DashBoardPage :22 -  dashBoard Text Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Dashboard')]'<br>
+2023-05-23 20:05:916 INFO  LoginPage :53 - Enter username Admin to userName field [[ChromeDriver: chrome on WINDOWS (3ea6b89a42e9ef8523e6b6dae572c177)] -> xpath: //input[@name='username']]<br>
+2023-05-23 20:05:987 INFO  LoginPage :61 - Enter password admin123 to password field [[ChromeDriver: chrome on WINDOWS (3ea6b89a42e9ef8523e6b6dae572c177)] -> xpath: //body/div[@id='app']/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/form[1]/div[2]/div[1]/div[2]/input[1]]<br>
+2023-05-23 20:05:56 INFO  LoginPage :70 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (3ea6b89a42e9ef8523e6b6dae572c177)] -> xpath: //body/div[@id='app']/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/form[1]/div[3]/button[1]]<br>
+2023-05-23 20:05:769 INFO  LoginPage :38 - Enter User Name
+2023-05-23 20:05:855 INFO  LoginPage :44 - Enter Password
+2023-05-23 20:05:931 INFO  LoginPage :50 - Click on login tab
+2023-05-23 20:05:781 INFO  DashBoardPage :30 - Get dashboard text
+2023-05-23 20:05:74 INFO  LoginPage :38 - Enter User Name
+2023-05-23 20:05:159 INFO  LoginPage :44 - Enter Password
+2023-05-23 20:05:240 INFO  LoginPage :50 - Click on login tab
+2023-05-23 20:05:125 INFO  DashBoardPage :36 - Click on profile
+2023-05-23 20:05:214 INFO  DashBoardPage :42 - Click on logout tab
+2023-05-23 20:05:946 INFO  LoginPage :38 - Enter User Name
+2023-05-23 20:05:17 INFO  LoginPage :44 - Enter Password
+2023-05-23 20:05:102 INFO  LoginPage :50 - Click on login tab
+2023-05-23 20:05:945 INFO  HomePage :27 - Click on admin tab
+2023-05-23 20:05:716 INFO  HomePage :33 - Get System User text 
+2023-05-23 20:05:773 INFO  AdminPage :28 - Click on add button
+2023-05-23 20:05:114 INFO  AdminPage :34 - Get add user text :
+2023-05-23 20:05:233 INFO  AddUserPage :43 - Enter employee name :
+2023-05-23 20:05:360 INFO  AddUserPage :75 - Enter User name
+2023-05-23 20:05:578 INFO  AddUserPage :57 - Enter Password :
+2023-05-23 20:05:686 INFO  AddUserPage :63 - Enter confirm password
+2023-05-23 20:05:790 INFO  AddUserPage :69 - Click on save button
+2023-05-23 20:05:768 INFO  LoginPage :38 - Enter User Name
+2023-05-23 20:05:872 INFO  LoginPage :44 - Enter Password
+2023-05-23 20:05:946 INFO  LoginPage :50 - Click on login tab
+2023-05-23 20:05:999 INFO  HomePage :27 - Click on admin tab
+2023-05-23 20:05:218 INFO  HomePage :33 - Get System User text 
+2023-05-23 20:05:245 INFO  AdminPage :28 - Click on add button
+2023-05-23 20:05:815 INFO  AddUserPage :43 - Enter employee name :
+2023-05-23 20:05:832 INFO  LoginPage :38 - Enter User Name
+2023-05-23 20:05:915 INFO  LoginPage :44 - Enter Password
+2023-05-23 20:05:989 INFO  LoginPage :50 - Click on login tab
+2023-05-23 20:05:803 INFO  HomePage :27 - Click on admin tab
+2023-05-23 20:05:566 INFO  HomePage :33 - Get System User text 
+2023-05-23 20:05:722 INFO  ViewSystemUserPage :55 - Enter employee name
+2023-05-23 20:05:433 INFO  LoginPage :38 - Enter User Name
+2023-05-23 20:05:499 INFO  LoginPage :44 - Enter Password
+2023-05-23 20:05:595 INFO  LoginPage :50 - Click on login tab
+2023-05-23 20:05:359 INFO  HomePage :27 - Click on admin tab
+2023-05-23 20:05:957 INFO  HomePage :33 - Get System User text 
+2023-05-23 20:05:985 INFO  ViewSystemUserPage :55 - Enter employee name
+2023-05-23 20:05:307 INFO  ViewSystemUserPage :104 - CLick on no record found text
